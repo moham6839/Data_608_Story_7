@@ -9,7 +9,7 @@ Chromium,South Africa,South Africa,18000000,44,41000000
 Cobalt,Norway,Congo,130000,68,190000
 Fluorspar,Mexico,China,5700000,69,8300000
 Gallium,China,China,540,98,550
-Germanium,China,China,,,
+Germanium,China,China,0,0,
 Graphite,China,China,850000,65,1300000
 Indium,Republic of Korea,China,530,59,900
 Lithium,Argentina,Australia,61000,47,130000
@@ -20,13 +20,13 @@ Niobium,Brazil,Brazil,71000,90,79000
 Palladium,Russia,Russia,88,42,210
 Platinum,South Africa,South Africa,140,74,190
 Rare Earths,China,China,210000,70,300000
-Scandium,Europe,China,,,
+Scandium,Europe,China,0,0,
 Tantalum,China,Congo,860,43,2000
 Tellurium,Canada,China,340,53,640
 Tin,Peru,China,95000,31,310000
 Titanium,Japan,China,150000,58,260000
 Tungsten,China,China,71000,85,84000
 Vanadium,Canada,China,70000,70,100000
-Yttrium,China,China,,,
-Zinc,Canada,NA,,74,
+Yttrium,China,China,0,0,0
+Zinc,Canada,NA,0,74,0
 Zirconium,South Africa,Australia,500000,36,1400000
